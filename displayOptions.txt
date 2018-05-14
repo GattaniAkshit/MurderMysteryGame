@@ -1,0 +1,4 @@
+Options:
+    1. To name the murderer.
+    2. To talk to person in room.
+    3. To go to next room.
