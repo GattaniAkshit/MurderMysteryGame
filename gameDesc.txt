@@ -1,5 +1,5 @@
 ----- MURDER GAME -----
-This is a Murder Mystry Game.
+This is a Murder Mystery Game.
 You are a detective and your task is to find the murderer.
 Go to Different rooms and find out the clues by what the suspects have to say.
 
