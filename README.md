@@ -25,3 +25,6 @@ There are 9 Suspects you need to talk.
 Albert(Butler), Bruce(Husband), Cercei(PA), Dickens(Accountant), Eugene(lover), Freddy(son), Gerard(Hotel Security), Hermoinee(waitress), Issac(Boyfriend)
 Investigate the Scene.
 ******************************
+
+To play:
+python3 game.py
